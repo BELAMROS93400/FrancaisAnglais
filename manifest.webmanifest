@@ -1,0 +1,18 @@
+{
+  "name": "Exercice d'Anglais pour Français",
+  "short_name": "Anglais FR",
+  "description": "Exercices d'anglais du niveau A1 au niveau Expert, avec traduction et correction en français. Fonctionne hors ligne.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F5F9",
+  "theme_color": "#2563EB",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
